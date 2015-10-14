@@ -48,6 +48,10 @@
   <ItemGroup>
      <Compile Include="Assets\FlyScript.cs" />
      <Compile Include="Assets\IF.cs" />
+     <Compile Include="Assets\Loop Scripts\DoWhileLoop.cs" />
+     <Compile Include="Assets\Loop Scripts\ForEachLoop.cs" />
+     <Compile Include="Assets\Loop Scripts\ForLoop.cs" />
+     <Compile Include="Assets\Loop Scripts\WhileLoop.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
