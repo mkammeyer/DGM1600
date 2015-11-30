@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IF.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="E:\Coding\loops\Assets\DoWhile.cs">
     <Files>
-      <File FileName="..\..\..\Downloads\Movement\Movement\Assets\Script\MoveObject.cs" Line="1" Column="1" />
-      <File FileName="Assets\IF.cs" Line="38" Column="4" />
+      <File FileName="E:\Coding\loops\Assets\DoWhile.cs" Line="24" Column="2" />
+      <File FileName="E:\Coding\loops\Assets\Foreach.cs" Line="8" Column="16" />
+      <File FileName="E:\Coding\loops\Assets\ForLoop.cs" Line="15" Column="3" />
+      <File FileName="E:\Coding\loops\Assets\WhileLoop.cs" Line="14" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
